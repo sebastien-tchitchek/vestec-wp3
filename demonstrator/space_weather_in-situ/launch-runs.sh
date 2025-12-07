@@ -32,4 +32,4 @@ echo "B0z = 0.0" >> $sim_params
 echo "ns = 2" >> $sim_params
 $exe $sim_params
 
-pvpython clusterDiags.py
+# pvpython clusterDiags.py
